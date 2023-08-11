@@ -25,3 +25,16 @@ This includes:
 ## State
 
 This is just the beginning, so if you want to get involved, get in touch.
+
+## Contributors
+
+Thanks go to ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
