@@ -28,11 +28,13 @@ This is just the beginning, so if you want to get involved, get in touch.
 
 ## Contributors
 
-Thanks go to ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks go to:
 
 <!-- ALL-CONTRIBUTORS-LIST:START -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+
+[<img src="https://github.com/stefanrows.png" width="60px;"/><br /><sub><a href="https://github.com/stefanrows">@stefanrows</a></sub>](https://github.com/stefanrows)
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
