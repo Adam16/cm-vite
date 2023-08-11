@@ -1,5 +1,11 @@
 # cm-vite
-Dynamic imports transformer and path rewriter for Vitejs when using CoreMedia.
+Dynamic imports transformer and path rewriter for Vitejs when using [CoreMedia](https://www.coremedia.com/).
+
+## CoreMedia
+
+- [on GitHub](https://github.com/CoreMedia)
+
+* You will probably need permissions to access the repository from the frontend workspace.
 
 ## Vitejs
 
