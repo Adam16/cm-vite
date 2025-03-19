@@ -22,6 +22,10 @@ This includes:
 
 > Get ready for a development environment that can finally catch up with you.
 
+### Plugins
+
+- [vite-plugin-live-reload](https://github.com/Adam16/vite-plugin-live-reload)
+
 ## State
 
 This is just the beginning, so if you want to get involved, get in touch.
